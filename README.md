@@ -1,4 +1,4 @@
-This repository contains data and some source code developed out of the following papers:
+This repository contains data and some source code developed out of the following papers during my PhD study:
 
 Ma D., Omer I., Osaragi T., Sandberg M., and Jiang B. (2018), Why topology matters in predicting human activities? <i> Manuscript under review </i>.<br><br>
 Ma D. and Jiang B. (2017), A smooth curve as a fractal under the third definition, <i> Manuscript under review </i>.<br><br>
